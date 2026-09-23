@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PCCOE 3D Navigation</string>
+    <string name="title_activity_main">PCCOE 3D Navigation</string>
+    <string name="package_name">com.pccoe.navigation</string>
+    <string name="custom_url_scheme">com.pccoe.navigation</string>
+</resources>
